@@ -16,4 +16,4 @@ The following is a description of the script run_analysis.R used to create the t
 * The tidy data set is created containing the means of the retained features,grouped by subject and activity name.
 * The tidy data set is written to a text file called output.txt.
 
-## Please look as the comments in the script for a more detailed description of the functioning of the script.
+## Please look at the comments in the script for a more detailed description of the functioning of the script.
